@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "BcmFile.h"
-#include "BacFile.h"
+#include "DBXV2/BcmFile.h"
+#include "DBXV2/BacFile.h"
 #include "debug.h"
 
 static void wait_key()
