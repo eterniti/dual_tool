@@ -1,0 +1,9 @@
+*.obj
+*.o
+*.bak
+*.log
+*.exe
+*.dll
+*.txt
+*.xml
+release/
